@@ -1,0 +1,16 @@
+"Parameter","Estimate"
+"Intercept",0.366793
+"Night",0.081951
+"MultiVehicle",-0.105036
+"Brooklyn",0.032722
+"Manhattan",-0.083101
+"Queens",-0.026604
+"Bronx",0.004188
+"Inattention",0.05497
+"FollowingTooClosely",0.077749
+"FailureToYield",0.257621
+"UnspecifiedFactor",-0.034781
+"Sedan",0.011653
+"SUV",8.9e-05
+"Pickup",-0.060353
+"Motorcycle",0.325619
