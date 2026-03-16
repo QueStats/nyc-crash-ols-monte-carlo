@@ -1,8 +1,8 @@
 # =============================================================================
-# run_file.r
+# run_file.R
 # Purpose: Load and clean data, build model matrix, fit OLS, run simulation.
 # Usage:   Rscript run_file.r <seed>
-#          e.g.  Rscript run_file.r 1
+#          e.g.  Rscript run_file.R 1
 # Output:  results/run_results_<seed>.rds
 # =============================================================================
 
