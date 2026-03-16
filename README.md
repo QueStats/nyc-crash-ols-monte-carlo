@@ -25,7 +25,7 @@ Analysis sample: 19,999 crashes with 15 predictors.
 R/  
 Scripts used for model estimation and simulation
 
-Report/  
+report/ 
 Full project report and methodology
 
 ## Example Results
