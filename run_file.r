@@ -1,6 +1,5 @@
 # =============================================================================
 # run_file.r
-# ST 453 Midterm Project
 # Purpose: Load and clean data, build model matrix, fit OLS, run simulation.
 # Usage:   Rscript run_file.r <seed>
 #          e.g.  Rscript run_file.r 1
