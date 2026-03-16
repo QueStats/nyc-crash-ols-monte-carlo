@@ -20,13 +20,22 @@ Motor Vehicle Collisions – Crashes dataset.
 
 Analysis sample: 19,999 crashes with 15 predictors.
 
+## Methods
+
+• Ordinary Least Squares regression  
+• QR decomposition for coefficient estimation  
+• Monte Carlo simulation (1000 replications)
+
 ## Repository Structure
 
 R/  
 Scripts used for model estimation and simulation
 
-report/ 
+Report/ 
 Full project report and methodology
+  Figures/
+  Results/
+  Tables/
 
 ## Example Results
 
