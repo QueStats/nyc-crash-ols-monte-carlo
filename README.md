@@ -188,7 +188,8 @@ nyc-crash-ols-monte-carlo/
 │   └── run_file.R
 │
 ├── Report_bootstrap/
-│   ├── figures/
+│   ├── crash_injury_bootstrap_inference_report.pdf  (548 KB)
+│   ├── Figures/
 │   │   ├── fig4_boxplot_multivehicle.png
 │   │   ├── fig5_observed_vs_predicted.png
 │   │   ├── fig6_bootstrap_night.png
@@ -198,7 +199,7 @@ nyc-crash-ols-monte-carlo/
 │   │   └── fig10_bootstrap_rmse.png
 │   ├── Results/
 │   │   └── bootstrap_results_1.rds                  (1.4 MB)
-│   └── tables/
+│   └── Tables/
 │       ├── table1_data_description.csv              (188 B)
 │       ├── table2_real_data_coefficients.csv        (345 B)
 │       ├── table3_parametric_inference.csv          (1 KB)
