@@ -1,0 +1,5 @@
+"Parameter","Estimate","Parametric_SE","Bootstrap_SE","Parametric_CI_Lower","Parametric_CI_Upper","Bootstrap_CI_Lower","Bootstrap_CI_Upper","Parametric_p_value","Bootstrap_p_value","Bootstrap_Mean","Bootstrap_Bias"
+"Night",0.081951,0.012073,0.012214,0.058287,0.105614,0.05828,0.105823,0,0,0.081916,-3.5e-05
+"MultiVehicle",-0.105036,0.012061,0.012069,-0.128677,-0.081395,-0.128554,-0.081442,0,0,-0.104825,0.000212
+"FailureToYield",0.257621,0.020925,0.020773,0.216606,0.298636,0.21773,0.299842,0,0,0.257664,4.2e-05
+"Motorcycle",0.325619,0.051453,0.051181,0.224766,0.426471,0.231329,0.431246,0,0,0.32496,-0.000659

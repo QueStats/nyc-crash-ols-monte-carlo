@@ -10,7 +10,7 @@
 
 for seed in {1..1}
 do
-    Rscript bootstrap.r $seed 1000
+    Rscript bootstrap.r $seed 10000
 done
 
 # Step 2: Produce all figures and tables from the saved bootstrap output.

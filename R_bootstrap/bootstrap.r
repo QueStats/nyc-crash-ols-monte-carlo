@@ -13,8 +13,8 @@ N <- if (length(args) >= 2) as.integer(args[2]) else 1000
 set.seed(seed)
 
 # ---- 0. Output directory ----------------------------------------------------
-dir.create("results", showWarnings = FALSE)
-
+dir.create("Report_bootstrap/Results",
+           recursive = TRUE, showWarnings = FALSE)
 # =============================================================================
 # SECTION 1 -- Data import and cleaning
 # =============================================================================
@@ -240,8 +240,9 @@ save(
   bootstrap_summary,
   boot_ci_lower, boot_ci_upper, boot_se, boot_p_value,
   n_obs, p_cols, N, seed,
-  file = paste0("results/bootstrap_results_", seed, ".rds")
+  file = paste0("Report_bootstrap/Results/bootstrap_results_", seed, ".rds")
 )
 
 cat("bootstrap.r completed for seed =", seed, "and N =", N, "\n")
-cat("Results saved to results/bootstrap_results_", seed, ".rds\n", sep = "")
+cat("Results saved to Report_bootstrap/results/bootstrap_results_",
+    seed, ".rds\n", sep = "")
