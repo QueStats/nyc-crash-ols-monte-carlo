@@ -1,6 +1,5 @@
 # =============================================================================
 # bootstrap.r
-# ST 453 Final Project
 # Purpose: Load and clean NYC crash data, fit OLS, run bootstrap study.
 # Usage:   Rscript bootstrap.r <seed> <N>
 #          e.g. Rscript bootstrap.r 1 1000

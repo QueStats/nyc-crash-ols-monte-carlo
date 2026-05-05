@@ -1,6 +1,5 @@
 # =============================================================================
 # out_file.r
-# ST 453 Final Project
 # Purpose: Load bootstrap.r output and produce final figures and tables.
 # Usage:   Rscript out_file.r <seed>
 #          e.g. Rscript out_file.r 1

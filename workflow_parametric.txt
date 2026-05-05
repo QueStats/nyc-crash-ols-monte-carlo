@@ -1,4 +1,4 @@
-# This is the workflow to reproduce the results of nyc-crash-ols-monte-carlo
+# This is the workflow to reproduce the results of nyc-crash-ols-monte-carlo project by
 # Quincy Cornish
 
 The raw data file must be located at:

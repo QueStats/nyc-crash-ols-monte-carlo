@@ -1,6 +1,6 @@
-# ST 453 Final Project — Bootstrap Inference for Crash Injury Severity
+# NYC Crash Bootstrap Inference for Crash Injury Severity
 
-**Quincy Cornish | ST 453 — Advanced Computing for Statistical Reasoning**
+**Quincy Cornish — Advanced Computing for Statistical Reasoning**
 
 ---
 

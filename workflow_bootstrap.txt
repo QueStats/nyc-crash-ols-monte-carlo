@@ -1,5 +1,5 @@
-# This is the workflow to reproduce the results of the ST 453 final project by
-# Quincy Cornish.
+# This is the workflow to reproduce the results of the nyc-crash-injury-bootstrap-vs-monte-carlo
+# project by Quincy Cornish.
 
 # The raw data file must be located at:
 # ~/Downloads/Motor_Vehicle_Collisions_-_Crashes.csv
